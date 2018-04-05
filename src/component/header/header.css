@@ -1,0 +1,22 @@
+.header{
+    height: auto;
+    background-color: black;
+    color: white;
+    padding: 0.5px;
+}
+.app-logo{
+ 
+}
+
+.source{
+    color: #34d8f5 
+}
+.logo-style{
+    font-size: 2em;
+}
+
+.user-name{
+    float: right;
+    font-size: 20px;
+    
+}
