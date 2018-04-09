@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Header from './component/header/header'
+import {Header} from './component/header/header'
 import Footer from './component/footer/footer'
 import Todo from './component/todo/todo'
 import './App.css';
@@ -11,7 +11,7 @@ class App extends Component {
         return (
             <div>
                 {/* component header */}
-                <Header userName="Apirat Pramchana"/>                                                                                               
+                <Header userName="Apirat" age="20"/>                
                     <div className="row">
                         <div className="col-md-6">
                             <Todo titleName="text1"/>
